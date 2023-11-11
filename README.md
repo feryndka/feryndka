@@ -38,7 +38,7 @@
 </p>
 <hr>
 
-## 📊 Github Statistic:
+# 📊 Github Statistic:
 <p align="left">
 <a href="https://github.com/feryndka">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=feryndka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -46,5 +46,5 @@
 </a>
 </p>
 
-## 💻 LeetCode Statistic:
+# 💻 LeetCode Statistic:
 ![](https://leetcard.jacoblin.cool/feryndka?animation=true)
