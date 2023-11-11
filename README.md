@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, It's Fery 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 </h1>
-<h3 align="center">
+<h3 align="center" style="color: white;">
   A passionate Web Application Developer with a desire to explore more about software development
 </h3>
 📚 Student Informatics at Telkom University <br>
@@ -13,8 +13,7 @@
   />
 </a>
 <hr>
-
-## 👨‍💻 Tech Stack:
+<h3 style="color: white">👨‍💻 Tech Stack:</h3>
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
@@ -26,14 +25,14 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=white&style=flat"/>
 </p>
 
-## 💾 Version Control and Development tools:
+<h3 style="color: white">💾 Version Control and Development tools:</h3>
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
 </p>
 
-## 🖥Operating System:
+<h3 style="color: white">🖥Operating System:</h3>
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
 </p>
