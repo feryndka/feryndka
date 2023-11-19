@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, It's Fery 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+  Hi, It's Fery 👋
 </h1>
 <p align="center">
   A passionate Web Application Developer with a desire to explore more about software development
