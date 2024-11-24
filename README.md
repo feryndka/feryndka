@@ -14,7 +14,7 @@
 </a>
 
 <hr>
-
+<!-- Link icon : https://profile-readme-generator.com/ -->
 <h3><span style="color:white;">👨‍💻 Tech Stack:</span></h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -72,7 +72,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </p>
 
-<!-- Link icon : https://profile-readme-generator.com/ -->
 <hr>
 
 # 📊 Github Statistic:
