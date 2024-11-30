@@ -14,8 +14,8 @@
 </a>
 
 <hr>
-<!-- Link icon : https://profile-readme-generator.com/ -->
 <h3><span style="color:white;">👨‍💻 Tech Stack:</span></h3>
+<!-- Link icon : https://profile-readme-generator.com/ -->
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
