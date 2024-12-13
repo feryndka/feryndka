@@ -1,7 +1,7 @@
-<h1 align="center">
+<h1>
   Hi, It's Fery 👋
 </h1>
-<p align="center">
+<p>
   A passionate Web Application Developer with a desire to explore more about software development
 </p>
 📚 Student Informatics at Telkom University <br>
